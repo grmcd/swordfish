@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cejvld6lxoqwn"
+path="res://.godot/imported/3. Ocean’s Grasp.ogg-8d7e0b07f1f739d5cd130d44eb7f2bb7.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/music/Pirate Music Pack Vol. 2/Tracks/ogg/3. Ocean’s Grasp.ogg"
+dest_files=["res://.godot/imported/3. Ocean’s Grasp.ogg-8d7e0b07f1f739d5cd130d44eb7f2bb7.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

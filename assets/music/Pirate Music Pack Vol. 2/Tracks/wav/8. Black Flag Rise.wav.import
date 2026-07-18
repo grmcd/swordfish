@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dnlk5n8w8knr2"
+path="res://.godot/imported/8. Black Flag Rise.wav-62ad0486dac14db4fc8f8e5e3ef1fe41.sample"
+
+[deps]
+
+source_file="res://assets/music/Pirate Music Pack Vol. 2/Tracks/wav/8. Black Flag Rise.wav"
+dest_files=["res://.godot/imported/8. Black Flag Rise.wav-62ad0486dac14db4fc8f8e5e3ef1fe41.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

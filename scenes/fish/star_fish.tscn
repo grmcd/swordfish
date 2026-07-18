@@ -1,0 +1,22 @@
+[gd_scene format=3 uid="uid://cgcja5838c8yc"]
+
+[ext_resource type="PackedScene" uid="uid://curit1s8u1x32" path="res://scenes/fish/fish_template.tscn" id="1_nb6tg"]
+[ext_resource type="Texture2D" uid="uid://chhacnfeljwx2" path="res://assets/sprites/MainFish/IMG_1289.PNG" id="2_sdkqo"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_a4e5a"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_sdkqo")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}]
+
+[node name="StarFish" unique_id=86138752 instance=ExtResource("1_nb6tg")]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." index="1" unique_id=1717638507]
+position = Vector2(1.75, 0)
+scale = Vector2(0.058593746, 0.0625)
+sprite_frames = SubResource("SpriteFrames_a4e5a")

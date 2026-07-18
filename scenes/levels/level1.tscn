@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://ncu7kqf5pyde"]
+
+[ext_resource type="PackedScene" uid="uid://c8mjl3rdt63oo" path="res://scenes/level_template.tscn" id="1_x6ivy"]
+
+[node name="Scene_Template" unique_id=133704863 instance=ExtResource("1_x6ivy")]
+
+[node name="TileMap" parent="." index="1" unique_id=1187204619]
+layer_0/tile_data = PackedInt32Array(917527, 458752, 13, 917505, 458752, 13, 917508, 655360, 13, 917530, 655360, 13, 1245204, 458752, 13, 1114135, 458752, 1610612749, 1114138, 655360, 1342177293, 1245207, 589824, 12, 1245210, 589824, 12, 1245213, 589824, 12, 1245215, 655360, 13, 1048605, 458752, 11, 1114141, 458752, 11, 1179677, 589824, 11, 1048604, 458752, 11, 1114140, 458752, 11, 1048606, 458752, 11, 1114142, 458752, 11)

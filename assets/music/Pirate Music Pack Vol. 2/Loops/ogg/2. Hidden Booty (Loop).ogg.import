@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c1s5sfbyjqtye"
+path="res://.godot/imported/2. Hidden Booty (Loop).ogg-09e963898c63b9e75c8719f2d2f52c9c.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/music/Pirate Music Pack Vol. 2/Loops/ogg/2. Hidden Booty (Loop).ogg"
+dest_files=["res://.godot/imported/2. Hidden Booty (Loop).ogg-09e963898c63b9e75c8719f2d2f52c9c.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

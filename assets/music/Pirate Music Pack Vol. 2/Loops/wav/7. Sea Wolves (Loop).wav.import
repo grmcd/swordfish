@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dyc1vpmjxexm2"
+path="res://.godot/imported/7. Sea Wolves (Loop).wav-f497596ea90919265e7f5be9b57d4e15.sample"
+
+[deps]
+
+source_file="res://assets/music/Pirate Music Pack Vol. 2/Loops/wav/7. Sea Wolves (Loop).wav"
+dest_files=["res://.godot/imported/7. Sea Wolves (Loop).wav-f497596ea90919265e7f5be9b57d4e15.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

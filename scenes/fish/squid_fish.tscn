@@ -1,0 +1,22 @@
+[gd_scene format=3 uid="uid://y4h4l6skdsfd"]
+
+[ext_resource type="PackedScene" uid="uid://curit1s8u1x32" path="res://scenes/fish/fish_template.tscn" id="1_yjs1m"]
+[ext_resource type="Texture2D" uid="uid://b03xhx0rfj6yo" path="res://assets/sprites/MainFish/IMG_1290.png" id="2_pb62t"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_fqw0k"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_pb62t")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}]
+
+[node name="SquidFish" unique_id=86138752 instance=ExtResource("1_yjs1m")]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." index="1" unique_id=1963229933]
+position = Vector2(0.9999995, -2.3841858e-07)
+scale = Vector2(0.059895817, 0.05208332)
+sprite_frames = SubResource("SpriteFrames_fqw0k")

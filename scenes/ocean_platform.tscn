@@ -1,0 +1,17 @@
+[gd_scene format=3 uid="uid://be2a75pix88r3"]
+
+[ext_resource type="Texture2D" uid="uid://o4boooxee5eg" path="res://assets/sprites/Atlantis/Atlantis/Tileset1.png" id="1_h0kd6"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_dakua"]
+size = Vector2(30, 8)
+
+[node name="OceanPlatform" type="AnimatableBody2D" unique_id=1560582854]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=444557157]
+texture = ExtResource("1_h0kd6")
+region_enabled = true
+region_rect = Rect2(322, 328, 30, 8)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1868916446]
+shape = SubResource("RectangleShape2D_dakua")
+one_way_collision = true

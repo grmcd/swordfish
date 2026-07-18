@@ -1,0 +1,22 @@
+[gd_scene format=3 uid="uid://bvmche8idxrwg"]
+
+[ext_resource type="PackedScene" uid="uid://curit1s8u1x32" path="res://scenes/fish/fish_template.tscn" id="1_vgmog"]
+[ext_resource type="Texture2D" uid="uid://bnmq87dpqhfxe" path="res://assets/sprites/MainFish/IMG_1293.png" id="2_qgb4a"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_e74yr"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_qgb4a")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}]
+
+[node name="jelly_fish" unique_id=86138752 instance=ExtResource("1_vgmog")]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." index="1" unique_id=309449753]
+position = Vector2(1, 0.99999994)
+scale = Vector2(0.04947916, 0.049479153)
+sprite_frames = SubResource("SpriteFrames_e74yr")

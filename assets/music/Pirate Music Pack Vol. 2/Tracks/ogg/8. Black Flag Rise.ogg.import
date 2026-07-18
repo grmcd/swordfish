@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cye2l1osomce8"
+path="res://.godot/imported/8. Black Flag Rise.ogg-dc0a2bb655644898342ca7a069f67c6a.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/music/Pirate Music Pack Vol. 2/Tracks/ogg/8. Black Flag Rise.ogg"
+dest_files=["res://.godot/imported/8. Black Flag Rise.ogg-dc0a2bb655644898342ca7a069f67c6a.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

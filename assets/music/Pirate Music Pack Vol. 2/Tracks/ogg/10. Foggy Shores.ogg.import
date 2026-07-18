@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bfj0x6h0mbeon"
+path="res://.godot/imported/10. Foggy Shores.ogg-72ae576eea13fe9891671af2b0fcec93.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/music/Pirate Music Pack Vol. 2/Tracks/ogg/10. Foggy Shores.ogg"
+dest_files=["res://.godot/imported/10. Foggy Shores.ogg-72ae576eea13fe9891671af2b0fcec93.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

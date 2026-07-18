@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://d0s14x3tpdicb"
+path="res://.godot/imported/6. Windward Chase.ogg-26f02b9d33d4336c2465df2d8d298a62.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/music/Pirate Music Pack Vol. 2/Tracks/ogg/6. Windward Chase.ogg"
+dest_files=["res://.godot/imported/6. Windward Chase.ogg-26f02b9d33d4336c2465df2d8d298a62.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

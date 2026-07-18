@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cnse0w7odit6g"
+path="res://.godot/imported/7. Sea Wolves (Loop).ogg-bdf2758ffda958734fdad2ca97911767.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/music/Pirate Music Pack Vol. 2/Loops/ogg/7. Sea Wolves (Loop).ogg"
+dest_files=["res://.godot/imported/7. Sea Wolves (Loop).ogg-bdf2758ffda958734fdad2ca97911767.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

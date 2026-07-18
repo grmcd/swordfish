@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bfh55q32esb0i"
+path="res://.godot/imported/3. Ocean’s Grasp.mp3-b54cf5f041ce06afbbfe0f29b3b84270.mp3str"
+
+[deps]
+
+source_file="res://assets/music/Pirate Music Pack Vol. 2/Tracks/mp3/3. Ocean’s Grasp.mp3"
+dest_files=["res://.godot/imported/3. Ocean’s Grasp.mp3-b54cf5f041ce06afbbfe0f29b3b84270.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

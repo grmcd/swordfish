@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://djrrfxycwjyms"
+path="res://.godot/imported/1. Silent Harbor.mp3-59824f599f5937717c1d244869e75d72.mp3str"
+
+[deps]
+
+source_file="res://assets/music/Pirate Music Pack Vol. 2/Tracks/mp3/1. Silent Harbor.mp3"
+dest_files=["res://.godot/imported/1. Silent Harbor.mp3-59824f599f5937717c1d244869e75d72.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

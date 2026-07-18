@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b4h8082jajx0u"
+path="res://.godot/imported/6. Windward Chase.wav-f8472a9607ff734ad0ad85b073356ac4.sample"
+
+[deps]
+
+source_file="res://assets/music/Pirate Music Pack Vol. 2/Tracks/wav/6. Windward Chase.wav"
+dest_files=["res://.godot/imported/6. Windward Chase.wav-f8472a9607ff734ad0ad85b073356ac4.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

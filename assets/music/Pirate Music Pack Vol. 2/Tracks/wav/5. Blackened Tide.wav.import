@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://pci1lahkht8h"
+path="res://.godot/imported/5. Blackened Tide.wav-bd1cc6057d3e8428ef82a9031ddb6acc.sample"
+
+[deps]
+
+source_file="res://assets/music/Pirate Music Pack Vol. 2/Tracks/wav/5. Blackened Tide.wav"
+dest_files=["res://.godot/imported/5. Blackened Tide.wav-bd1cc6057d3e8428ef82a9031ddb6acc.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

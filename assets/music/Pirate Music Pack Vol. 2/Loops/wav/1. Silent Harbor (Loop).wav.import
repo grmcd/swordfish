@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://di0olhtobxn25"
+path="res://.godot/imported/1. Silent Harbor (Loop).wav-a5e686a7890758ced9486bcd628334d9.sample"
+
+[deps]
+
+source_file="res://assets/music/Pirate Music Pack Vol. 2/Loops/wav/1. Silent Harbor (Loop).wav"
+dest_files=["res://.godot/imported/1. Silent Harbor (Loop).wav-a5e686a7890758ced9486bcd628334d9.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

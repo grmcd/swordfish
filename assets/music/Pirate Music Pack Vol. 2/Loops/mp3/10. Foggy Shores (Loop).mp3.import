@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cayh4rejsgrog"
+path="res://.godot/imported/10. Foggy Shores (Loop).mp3-46a7167e67d39a1813b8f6fbd9e225b6.mp3str"
+
+[deps]
+
+source_file="res://assets/music/Pirate Music Pack Vol. 2/Loops/mp3/10. Foggy Shores (Loop).mp3"
+dest_files=["res://.godot/imported/10. Foggy Shores (Loop).mp3-46a7167e67d39a1813b8f6fbd9e225b6.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

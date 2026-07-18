@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://0gph4drtjccx"
+path="res://.godot/imported/1. Silent Harbor.ogg-d9a40d859e9736cea20a7a6cee67b5a8.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/music/Pirate Music Pack Vol. 2/Tracks/ogg/1. Silent Harbor.ogg"
+dest_files=["res://.godot/imported/1. Silent Harbor.ogg-d9a40d859e9736cea20a7a6cee67b5a8.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

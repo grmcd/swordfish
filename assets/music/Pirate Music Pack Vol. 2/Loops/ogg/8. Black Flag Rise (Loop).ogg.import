@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dat5xivesgb6j"
+path="res://.godot/imported/8. Black Flag Rise (Loop).ogg-25344c37ce1e16b3aeac663c48d0ca9a.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/music/Pirate Music Pack Vol. 2/Loops/ogg/8. Black Flag Rise (Loop).ogg"
+dest_files=["res://.godot/imported/8. Black Flag Rise (Loop).ogg-25344c37ce1e16b3aeac663c48d0ca9a.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
